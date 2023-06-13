@@ -1,4 +1,4 @@
-# hammingweight
+# Hammingweight
 
 This API calculates the Hamming weight of a number. The
 Hamming weight of a string is the number of symbols that are different from zero. E.g.,
